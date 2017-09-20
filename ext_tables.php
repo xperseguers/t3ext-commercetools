@@ -7,6 +7,8 @@ $boot = function ($_EXTKEY) {
         'Commercetools',
         'commercetools - SDK (kickstart)'
     );
+
+    \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addStaticFile($_EXTKEY, 'Configuration/TypoScript', 'commercetools');
 };
 
 $boot($_EXTKEY);

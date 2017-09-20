@@ -1,0 +1,8 @@
+# cat=basic//1; type=string; label=LLL:EXT:commercetools/Resources/Private/Language/locallang_db.xlf:settings.client_id
+client_id =
+
+# cat=basic//2; type=string; label=LLL:EXT:commercetools/Resources/Private/Language/locallang_db.xlf:settings.client_secret
+client_secret =
+
+# cat=basic//3; type=string; label=LLL:EXT:commercetools/Resources/Private/Language/locallang_db.xlf:settings.project_id
+project_id =

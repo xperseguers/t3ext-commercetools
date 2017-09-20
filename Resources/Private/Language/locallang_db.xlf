@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file product-name="commercetools" source-language="en" datatype="plaintext" original="messages" date="2017-09-20T16:00:23">
+        <header />
+        <body>
+            <trans-unit id="settings.client_id">
+                <source>client_id:</source>
+            </trans-unit>
+            <trans-unit id="settings.client_secret">
+                <source>client_secret:</source>
+            </trans-unit>
+            <trans-unit id="settings.project_id">
+                <source>project_id: This is the part from "scope" after the colon.</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
